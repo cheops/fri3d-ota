@@ -1,0 +1,23 @@
+[
+    {
+        "Fri3d Badge 2022": {
+            "dev":[
+
+            ],
+            "release":[
+
+            ]
+        },
+        "Fri3d Badge 2024": {
+            "dev": [
+                {
+                    "version": "0.0.1",
+                    "app": "ota/fri3d_badge_2024/0.0.1/micropython.bin",
+                    "firmware": "ota/fri3d_badge_2024/0.0.1/firmware.bin"
+                }
+            ],
+            "release": [
+            ]
+        }
+    }
+]
